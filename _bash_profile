@@ -1,0 +1,25 @@
+
+# added by Anaconda3 4.0.0 installer
+export PATH="/Users/codeip/anaconda/bin:$PATH"
+
+# added nodebrew
+export PATH=$HOME/.nodebrew/current/bin:$PATH
+
+# vagrant command
+alias vh='vagrant halt'
+alias vr='vagrant reload'
+alias vs='vagrant ssh'
+alias vu='vagrant up'
+
+# git command
+alias ga='git add'
+alias gb='git branch'
+alias gc='git checkout'
+alias gcm='git commit -m'
+alias gf='git fetch'
+alias gps='git push'
+alias gpl='git pull'
+alias grm='git rm'
+alias grs='git reset'
+alias gs='git status'
+
